@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.site-nav {
+    height: 30px;
+    line-height: 30px;
+    background-color: #F1F1F1;
+
+}
+
+.site-nav-send {
+    position: relative;
+    padding-left: 12px;
+    padding-right: 20px;
+}
+
+
+.site-nav-send i {
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    line-height: 14px;
+    top: 12px;
+    right: 2px;
+    overflow: hidden;
+
+}
+.site-nav-send s {
+    position: absolute;
+    font: 600 12px/150% Consolas;
+    margin-top: -8px;
+}
