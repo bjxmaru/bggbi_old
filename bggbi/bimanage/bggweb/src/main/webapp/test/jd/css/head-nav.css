@@ -51,4 +51,20 @@
 
 }
 
+.adv {
+    background-color: #FD6500;
+}
 
+.adv  div{
+    position: relative;
+
+}
+
+.adv .adv-close{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 19px;
+    height: 19px;
+    background: url(../img/close-banner.png)  bottom  no-repeat;
+}
