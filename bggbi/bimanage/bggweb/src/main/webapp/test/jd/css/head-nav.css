@@ -7,14 +7,14 @@
 
 }
 
-.site-nav-send {
+.site-nav-send  , .site-nav-menu  li{
     position: relative;
     padding-left: 12px;
     padding-right: 20px;
 }
 
 
-.site-nav-send i {
+.site-nav-send i   , .site-nav-menu i{
     position: absolute;
     height: 14px;
     width: 14px;
@@ -24,8 +24,25 @@
     overflow: hidden;
 
 }
-.site-nav-send s {
+.site-nav-send s  , .site-nav-menu s {
     position: absolute;
     font: 600 12px/150% Consolas;
     margin-top: -8px;
 }
+
+
+
+.site-nav-menu  li {
+    float: left;
+
+}
+
+.site-nav-menu  li.separator {
+    padding:0 ;
+    margin: 9px 0;
+    width: 1px;
+    height: 12px;
+    background-color: #DDDDDD;
+}
+
+
