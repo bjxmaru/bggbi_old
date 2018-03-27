@@ -45,4 +45,10 @@
     background-color: #DDDDDD;
 }
 
+.site-nav-menu  li.cellphone {
+    padding-left: 27px;
+    background:url(../img/tel.png) 9px 5px no-repeat ;
+
+}
+
 
