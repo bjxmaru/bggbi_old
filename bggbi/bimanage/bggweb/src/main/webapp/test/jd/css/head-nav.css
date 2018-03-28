@@ -107,3 +107,44 @@
     text-align: center;
     background-color: #B61D1D;
 }
+
+.search-jd-cargo {
+    width: 96px;
+    height: 34px;
+    border: 1px solid #DFDFDF;
+    padding-left: 43px;
+    margin-right: 65px;
+    margin-top: 25px;
+    position: relative;
+}
+
+.search-jd-cargo a {
+    font: 400  12px/34px "Microsoft YaHei";
+}
+
+.search-jd-cargo  .cargo-logo {
+    position: absolute;
+    left: 19px;
+    top: 11px;
+    width: 17px;
+    height: 13px;
+    background:  url(../img/tel.png)  0  -59px no-repeat;
+}
+
+.search-jd-cargo  .cargo-quan {
+    position: absolute;
+    width: 16px;
+    height: 14px;
+    background-color: #C81623;
+    right: 20px;
+    top: -3px;
+    text-align: center;
+    color: #EFFFDF;
+    border-radius: 50% 50% 50% 0 ;
+}
+
+.search-jd-cargo  .cargo-go {
+    margin-right: 12px;
+
+}
+
