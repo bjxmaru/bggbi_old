@@ -68,3 +68,16 @@
     height: 19px;
     background: url(../img/close-banner.png)  bottom  no-repeat;
 }
+
+
+.search-jd  .search-jd-logo {
+    float: left;
+    width: 362px;
+    height: 100px;
+    background: url(../img/logo.png ) 0 30px no-repeat;
+}
+
+.search-jd-logo  a{
+    float: left;
+    text-indent: -99999px;
+}
