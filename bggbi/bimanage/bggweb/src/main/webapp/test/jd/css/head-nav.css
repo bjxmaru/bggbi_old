@@ -83,7 +83,7 @@
 
 .search-jd-input {
     width: 538px;
-    height: 61px;
+    height: 36px;
     padding-top: 25px;
     
 }
@@ -145,6 +145,15 @@
 
 .search-jd-cargo  .cargo-go {
     margin-right: 12px;
+
+}
+
+
+.search-jd-list  a {
+    float: left;
+    padding-right: 10px;
+    height: 28px;
+    font:400 12px/28px "Microsoft YaHei" ;
 
 }
 
