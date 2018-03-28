@@ -157,3 +157,79 @@
 
 }
 
+.more-fast-cheap {
+    position: relative;
+    width: 100%;
+    height: 167px;
+    background-color: #F5F5F5;
+    border-bottom: 1px solid #E6E7E6;
+
+}
+
+.more-fast-cheap img {
+    position: absolute;
+    bottom: 45px;
+    top: 61px;
+    left:50%;
+}
+
+.more-fast-cheap  .more-fast-cheap1 {
+    margin-left:-620px ;
+}
+
+.more-fast-cheap  .more-fast-cheap2 {
+    margin-left:-310px ;
+}
+
+.more-fast-cheap  .more-fast-cheap4 {
+    margin-left:310px;
+}
+
+
+.more-link  {
+    background-color: #F5F5F5;
+    height: 181px;
+    padding-top: 28px;
+
+}
+
+.more-link  dl {
+    float: left;
+    width: 198px;
+}
+
+.more-link .w{
+    height: 180px;
+    border-bottom: 1px solid #E6E7E6;
+}
+
+.more-link   dt{
+    font: 600 14px/32px "Microsoft YaHei" ;
+}
+
+.more-link  dd{
+    font: 400 12px/22px "Microsoft YaHei" ;
+}
+
+.more-link  .more-link-map {
+    width: 198px;
+    height: 153px;
+    background: url(../img/china.png) 0 -128px  no-repeat;
+
+}
+
+.more-link-map  h3{
+    font: 600 14px/32px "Microsoft YaHei" ;
+
+}
+
+.more-link-map  p {
+    font: 400 12px/22px "Microsoft YaHei" ;
+}
+
+.more-link-map  a{
+    font: 400 12px/22px "Microsoft YaHei" ;
+}
+
+
+
