@@ -71,7 +71,6 @@
 
 
 .search-jd  .search-jd-logo {
-    float: left;
     width: 362px;
     height: 100px;
     background: url(../img/logo.png ) 0 30px no-repeat;
@@ -80,4 +79,31 @@
 .search-jd-logo  a{
     float: left;
     text-indent: -99999px;
+}
+
+.search-jd-input {
+    width: 538px;
+    height: 61px;
+    padding-top: 25px;
+    
+}
+
+
+.search-jd-input  input {
+    float: left;
+    width: 451px;
+    height: 34px;
+    font: 400 12px/34px "Microsoft YaHei";
+    padding-left: 2px;
+    border: 1px solid #B61D1D;
+    border-right: none;
+}
+
+.search-jd-input button{
+    float: left;
+    width: 82px;
+    height: 36px;
+    font: 400 12px/36px "Microsoft YaHei";
+    text-align: center;
+    background-color: #B61D1D;
 }
